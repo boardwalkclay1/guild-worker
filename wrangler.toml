@@ -1,0 +1,8 @@
+name = "guild-worker"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+# If you want environment variables:
+[vars]
+MONGO_URI = ""
+MONGO_DB = "guild"
